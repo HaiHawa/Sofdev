@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Hawa",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"085546693462"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Devi",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"087654325671"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Hana",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"089764257857"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Maula",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"084269074289"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Firsty",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"0863964294688"
+    }
+  }
